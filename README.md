@@ -1,17 +1,14 @@
-# angular-aot-lazyload-webpack
-Demonstrate Angular 5+ Lazyload AOT and Webpack
+# Lazy Loading in Angular 6
 
-To Execute the Application
+
+
+
+![angular 6 lazy loading](https://res.cloudinary.com/practicaldev/image/fetch/s--wL8wFkU6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tfdk1njxszh5bhiif3bi.gif)
+
+
+### To install Dependencies
+```
 npm install
 
-Build in JIT Mode
-npm run buildjit
-
-Build in AOT Mode
-npm run buildaot
-
-Run in JIT Mode
-npm run  start-jit
-
-Run in AOT Mode
-npm run  start-aot
+npm start //to boot up development server
+```
